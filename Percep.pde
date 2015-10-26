@@ -1,12 +1,4 @@
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
-
-// Simple Perceptron Example
-// See: http://en.wikipedia.org/wiki/Perceptron
-
-// Perceptron Class
-
+//Integrante: Natalia Marin
 class Perceptron {
   float[] weights;  // Array of weights for inputs
   float c;          // learning constant

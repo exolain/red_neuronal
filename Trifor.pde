@@ -1,7 +1,4 @@
-// Seek
-// Daniel Shiffman <http://www.shiffman.net>
-
-// The "Vehicle" class
+//Integrante: Natalia Marin
 
 class Triforce {
   
